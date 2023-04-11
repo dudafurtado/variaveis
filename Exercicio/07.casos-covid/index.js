@@ -15,3 +15,6 @@ let quantidadeDePessoasInfectadas = populaçãoInicial * resultadoDaPotencia
 // resumido: p (quantidadeDePessoasInfectadas) = po (populaçãoInicial) * Math.pow(x(pessoasQueoPacientePodeTransmitir), t /7)
 
 console.log(quantidadeDePessoasInfectadas)
+
+
+// 1o faz a divisão de tempo utilizando o simbolo /

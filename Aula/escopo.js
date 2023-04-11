@@ -4,7 +4,8 @@
 }
 
 
-const notebook = "macbook pro"
+const notebook = "macbook pro";
+
 {
     console.log(notebook)
 }
@@ -16,3 +17,10 @@ const notebook = "macbook pro"
         console.log(airpods)
     }
 }
+
+const objeto = {
+    primeiraPropriedade: 1,
+    segundaPropriedade: 2
+}
+
+console.log(objeto.primeiraPropriedade)
