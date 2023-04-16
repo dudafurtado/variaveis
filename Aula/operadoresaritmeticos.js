@@ -31,3 +31,6 @@ console.log(`O resultado da divisão de ${d} com ${u} é ${matematica}`)
 matematica = dd / a;
 console.log(matematica)
 console.log(`O resultado da divisão de ${dd} com ${a} é ${matematica}`)
+
+// os simbolos para trabalhar com a matemática de números no javascript são :
+// + para soma, - para subtração, / para divisão, * para multiplicação

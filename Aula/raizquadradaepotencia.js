@@ -23,3 +23,7 @@ let potencia5 = Math.pow(24,7)
 console.log(potencia5)
 let potencia6 = Math.pow(823,21)
 console.log(potencia6)
+
+// Para situações matemáticas utlizamos o objeto embutido Math, ao qual possui propriedades importantes de cálculo.
+// Para potência = Math.pow()
+// Para raiz quadrada = Math.sqrt()

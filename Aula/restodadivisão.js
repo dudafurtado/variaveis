@@ -15,3 +15,6 @@ console.log(divisao5)
 
 let divisao6 = 66 % 8
 console.log(divisao6)
+
+// Para situações em que é necessário identificar um número par ou ímpar de uma lista
+// é possível analisar o resto do menor multiplicador comum com 2 e 3

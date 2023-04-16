@@ -14,3 +14,6 @@ let sobrenomeQueMaisGosto = quartoNome
 
 console.log(`O sobrenome que eu mais gosto é o${sobrenomeQueMaisGosto}`)
 console.log(`O sobrenome que eu menos gosto é o${sobrenomeQueMenosGosto}`)
+
+// é possível usar o simbolo ${} dentro da string `` ou
+// string comum '' + nomeDaVariavel + ''
