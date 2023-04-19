@@ -1,7 +1,7 @@
 // Calcula a velocidade média dessa pessoa a partir da distância percorrida pela pessoa e pelo tempo que passou
 
-let distPercorrida = 6312 //metros
-let tempo = 3000 //segundos
+let distPercorrida = 6312 // metros
+let tempo = 3000 // segundos
 
 let velocidade = distPercorrida / tempo
 

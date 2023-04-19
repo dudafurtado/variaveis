@@ -1,11 +1,6 @@
-// Calculadora de IMC
+let peso = 76
+let altura = 1.79
 
+let imc = peso / Math.pow(altura, 2)
 
-let pesoDeUmaPessoa = 53
-
-let alturaDeUmaPessoa = 1.60
-
-let imc = pesoDeUmaPessoa / Math.pow(alturaDeUmaPessoa, 2)
-// i (imc) = p (peso) / Math.pow(a(altura da pessoa),2)
-
-console.log(imc)
+console.log(imc.toFixed(1))

@@ -1,15 +1,11 @@
-//para calcular a distância de 2 pontos
+const x1= 1
+const x2 = 1
+const y1 = 1
+const y2 = 4 
 
-let x1= 1
-let x2 = 1
-let y1 = 1
-let y2 = 4 
+const primeiraPotencia = Math.pow((x2 - x1), 2)
+const segundaPotencia = Math.pow((y2 - y1), 2)
 
-let primeiraPotencia = Math.pow((x2 - x1), 2)
-let segundaPotencia = Math.pow((y2 - y1), 2)
-
-let d = Math.sqrt(primeiraPotencia + segundaPotencia)
-
-// resumido: let d = Math.sqrt(Math.pow((x2 - x1), 2) + Math.pow((y2 - y1), 2))
+const d = Math.sqrt(primeiraPotencia + segundaPotencia)
 
 console.log(d)
