@@ -33,7 +33,7 @@ It is the type of variable that has letters inside and is involved with quotatio
 Ways to insert a variable inside a message of text
 We should use crasis, $ symbol and {}
 
-`const age = 19;`
+`const age = 19;`  
 `console.log('I am ${age} years old. ');`
 
 ## Number 🔢
@@ -47,16 +47,16 @@ Some symbols are used to calculate numbers and they are: + - * /
 Type of result NaN is when it is not a number, the result is not real.
 Examples: 0/0.
 
-`0/2 = 0;`
+`0/2 = 0;`  
 `2/0 = Infinity;`
 
-`+=` --> add a new value and sum with the previous stored.
+`+=` --> add a new value and sum with the previous stored.  
 `-+` --> Subtract the current value from the previous one.
 
 `%` --> Show the rest of a division.
 
-`++x` --> first it returns and then make the sum
-`x++` --> make the sum and then returns
+`++x` --> first it returns and then make the sum.  
+`x++` --> make the sum and then returns.
 
 `Math .sqrt()`
 Used to calculate a square root.
