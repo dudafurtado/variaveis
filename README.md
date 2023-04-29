@@ -55,13 +55,13 @@ Examples: 0/0.
 
 `%` --> Show the rest of a division.
 
-`++x` --> first it returns and then make the sum.  
-`x++` --> make the sum and then returns.
+`++x` --> First it returns and then makes the sum.  
+`x++` --> Make the sum and then return.
 
 `Math .sqrt()`
 Used to calculate a square root.
 
-`Math.pow()`
+`Math .pow()`
 Used to calculate potency which has 2 arguments. The first one is the big number (base) and the second is the small one (exponent).
 
 `Math .round()`
