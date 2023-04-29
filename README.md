@@ -95,5 +95,5 @@ When we try to sum a number and a string, the computer is going to understand wh
 
 #### References
 
-<https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Math>
-<https://developer.mozilla.org/pt-BR/docs/Web/API/window/prompt>
+1. <https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Math>  
+2. <https://developer.mozilla.org/pt-BR/docs/Web/API/window/prompt>
